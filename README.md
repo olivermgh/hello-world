@@ -1,2 +1,3 @@
 # hello-world
 A first project..
+A bit about me and my code...
